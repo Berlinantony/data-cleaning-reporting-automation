@@ -38,6 +38,6 @@ This project automates data cleaning and reporting processes using Python. It ha
 
 ## Author
 
-Berlin Antony
+Berlin M
 B.Tech CSE (AI & ML)
 Karunya Institute of Technology and Sciences
